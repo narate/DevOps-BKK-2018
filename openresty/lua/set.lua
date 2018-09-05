@@ -18,7 +18,7 @@ if not host then
 end
 
 if host == ngx.null then
-	ngx.exit(404)
+	return ngx.exit(404)
 end
 
 ngx.var.target = host
