@@ -1,7 +1,5 @@
 local key = ngx.var.api_version
 
-ngx.log(ngx.ERR, 'KEY = '..key)
-
 local redis = require "resty.redis"
 local red = redis:new()
 
