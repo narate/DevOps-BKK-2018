@@ -23,4 +23,3 @@ end
 
 ngx.var.target = host
 ngx.var.path = ngx.var.uri:gsub('/'..key, '')
-
