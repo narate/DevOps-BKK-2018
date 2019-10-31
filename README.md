@@ -24,6 +24,8 @@ which including the following sub-topic:
  
 > [Click to see the presentation](https://docs.google.com/presentation/d/1jdZjFgN9byCGqt91J6xJeXpGXW69AJbMumF5ZhNvG4o/edit?usp=drivesdk)
 
+---
 
+For full blog about "Kong API Gateway", please visit >> [My Blog / kong-api-gateway-in-10-minutes](https://i.dont.works/kong-api-gateway-in-10-minute/)
 
 If there is any question, please feel free to contact me via [Facebook](https://www.facebook.com/koonnarate)
